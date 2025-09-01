@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GrishaFid
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning Front-end
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
